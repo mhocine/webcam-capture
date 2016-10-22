@@ -1,3 +1,7 @@
 test hme pull
 
 test hme encore
+
+test pussh or merge
+
+
